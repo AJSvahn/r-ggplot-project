@@ -1,0 +1,1 @@
+Aesthetics (aes) are mappings of data properties to visual features, eg colour. It can be called on a layer or to the ggplot overall as a global property. Distinct from static properties of layer. Eg. static colour='red' vs aes(colour=village)
